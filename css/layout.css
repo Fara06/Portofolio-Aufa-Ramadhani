@@ -165,7 +165,6 @@ html {
     z-index: 3;
     text-decoration: none;
   }
-  
   /*------------------------------------------------------------------
         [Button]
   ------------------------------------------------------------------*/
@@ -277,6 +276,7 @@ html {
   .progress-box .progress {
     box-shadow: none;
     height: 3px;
+    background: #17bed2;
   }
   
   .progress-box .progress-bar {
